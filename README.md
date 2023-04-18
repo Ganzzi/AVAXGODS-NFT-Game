@@ -16,6 +16,6 @@ To run the application locally, follow these steps:
 1. Clone the repository to your local machine using: ``` git clone https://github.com/Ganzzi/AVAXGODS-NFT-Game/ ```
 2. Move into client folder: ``` cd AVAXGODS-NFT-Game\client ```
 3. Install: ``` npm install ``` or ``` yarn install ```
-5. Start: ``` npm run dev ```
+4. Start: ``` npm run dev ```
 
 # Resource: https://www.youtube.com/watch?v=C9ctoK4M9Bk&t=693s
